@@ -1,0 +1,1 @@
+data class Regiao(val id: Int, val nomeRisco: String, val populacaoAfetada: Int)
