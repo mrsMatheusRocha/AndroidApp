@@ -71,6 +71,6 @@ O sistema foi construído de forma **100% declarativa** e conta com 3 telas prin
 
 Projeto desenhado e desenvolvido com foco em UI Reativa e Clean Architecture.
 
-Matheus Rocha Sousa 
+- Matheus Rocha Sousa 
 
-Luciano Henrique Gonçalves D'Oliveira
+- Luciano Henrique Gonçalves D'Oliveira
