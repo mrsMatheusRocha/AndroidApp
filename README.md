@@ -57,13 +57,14 @@ O sistema foi construído de forma **100% declarativa** e conta com 3 telas prin
 2. Clone o repositório localmente:
    ```bash
    git clone https://github.com/mrsMatheusRocha/AndroidApp.git
-   Abra a pasta do projeto no Android Studio.
 
-3. Aguarde o Gradle Sync finalizar o download das dependências do Jetpack Compose e da Navigation Compose.
+3. Abra a pasta do projeto no Android Studio.
 
-4. Inicie um Emulador (API 24+) ou conecte um dispositivo físico via USB/Wi-Fi.
+4. Aguarde o Gradle Sync finalizar o download das dependências do Jetpack Compose e da Navigation Compose.
 
-5. Pressione Shift + F10 ou clique no botão Run (▶️).
+5. Inicie um Emulador (API 24+) ou conecte um dispositivo físico via USB/Wi-Fi.
+
+6. Pressione Shift + F10 ou clique no botão Run (▶️).
 
 ---
 
