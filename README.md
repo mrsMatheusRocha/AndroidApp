@@ -14,9 +14,9 @@ Aplicativo Android nativo desenvolvido como parte da **Global Solution da FIAP**
 <p align="center" >
   <strong>Home</strong>
   <img src="/Home.png" width="200" style="padding-right: 40px;">
-  ## Lista de Alertas
+  <strong>Lista de Alertas</strong>
   <img src="/ListaAlertas.png" width="200" style="margin-right: 40px;">
-  ## Detalhe do Alerta
+  <strong>Detalhe do Alerta</strong>
   <img src="/AlertaDetalhe.png" width="200" style="margin-right: 40px;">
 </p>
 
