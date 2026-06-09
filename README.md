@@ -11,27 +11,22 @@ Aplicativo Android nativo desenvolvido como parte da **Global Solution da FIAP**
 
 ## 📸 Telas da Aplicação
 
-<div align="center">
-
-  <div style="margin-bottom: 20px;">
-    <strong>Home</strong>
-    <br>
-    <img src="/Home.png" width="200">
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <strong>Lista de Alertas</strong>
-    <br>
-    <img src="/ListaAlertas.png" width="200">
-  </div>
-
-  <div style="margin-bottom: 20px;">
-    <strong>Detalhe do Alerta</strong>
-    <br>
-    <img src="/AlertaDetalhe.png" width="200">
-  </div>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Home</strong><br><br>
+      <img src="/Home.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Lista de Alertas</strong><br><br>
+      <img src="/ListaAlertas.png" width="200">
+    </td>
+    <td align="center">
+      <strong>Detalhe do Alerta</strong><br><br>
+      <img src="/AlertaDetalhe.png" width="200">
+    </td>
+  </tr>
+</table>
 
 ---
 
